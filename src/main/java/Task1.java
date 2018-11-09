@@ -1,12 +1,9 @@
-public class Task_1 {
+public class Task1 {
         
-    private static int give_me_one() {
-        return "1";
+    public int plus(int a, int b) {
+        return a + b;
     }
     
     public static void Main(String[] args) {
-        int one = give_me_one()
-        int two = one * 2
-        System.out.println(two)
     }
 }
