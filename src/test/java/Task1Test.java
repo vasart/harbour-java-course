@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class Task1Test extends TestCase {
+public class Task1Test extends TestCase {
 
     public Task1Test() {
     }
