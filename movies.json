@@ -1,0 +1,121 @@
+[
+    {  
+        "Title":"Blade Runner",
+        "Year":1982,
+        "Released":"25 Jun 1982",
+        "Runtime":117,
+        "Genres":["Sci-Fi", "Thriller"],
+        "Director":{
+            "Name":"Ridley Scott"
+        },
+        "Writers":[
+            {"Name":"Hampton Fancher", "Type":"screenplay"},
+            {"Name":"David Webb Peoples", "Type":"screenplay"},
+            {"Name":"Philip K. Dick", "Type":"novel"}
+        ],
+        "Actors":[
+            {"Name":"Harrison Ford", "As":"Rick Deckard"},
+            {"Name":"Rutger Hauer", "As":"Roy Batty"},
+            {"Name":"Sean Young", "As":"Rachael"},
+            {"Name":"Edward James Olmos", "As":"Gaff"}
+        ],
+        "Plot":"A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",
+        "Languages":["English", "German", "Cantonese", "Japanese", "Hungarian", "Arabic"],
+        "Countries":["USA", "Hong Kong"],
+        "Awards":"Nominated for 2 Oscars. Another 11 wins & 16 nominations.",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "Ratings":[
+            {
+                "Source":"Internet Movie Database",
+                "Value":"8.2/10",
+                "Votes":602079
+            },
+            {  
+                "Source":"Rotten Tomatoes",
+                "Value":"90%"
+            },
+            {  
+                "Source":"Metacritic",
+                "Value":"89/100"
+            }
+        ]
+    },
+    {
+        "Title":"Titanic",
+        "Year":1997,
+        "Released":"19 Dec 1997",
+        "Runtime":194,
+        "Genres":["Drama", "Romance"],
+        "Director":{
+            "Name":"James Cameron"
+        },
+        "Writers":[
+        {"Name":"James Cameron", "Type":"screenplay"}
+        ],
+        "Actors":[
+            {"Name":"Leonardo DiCaprio", "As":"..."},
+            {"Name":"Kate Winslet", "As":"..."},
+            {"Name":"Billy Zane", "As":"..."}, 
+            {"Name":"Kathy Bates", "As":"..."}
+        ],
+        "Plot":"A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+        "Languages":["English", "Swedish"],
+        "Countries":["USA"],
+        "Awards":"Won 11 Oscars. Another 111 wins & 77 nominations.",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+        "Ratings":[
+            {
+                "Source":"Internet Movie Database",
+                "Value":"7.8/10",
+                "Votes":602079
+            },
+            {
+                "Source":"Rotten Tomatoes",
+                "Value":"89%"
+            },
+            {
+                "Source":"Metacritic",
+                "Value":"75/100"
+            }
+        ]
+    },
+    {
+        "Title":"Guardians of the Galaxy Vol. 2",
+        "Year":2017,
+        "Released":"05 May 2017",
+        "Runtime":136,
+        "Genres":["Action", "Adventure", "Comedy", "Sci-Fi"],
+        "Director":{
+            "Name":"James Gunn"
+        },
+        "Writers":[
+            {"Name":"James Gunn", "Type":"screenplay"}
+        ],
+        "Actors":[
+            {"Name":"Chris Pratt", "As":"..."},
+            {"Name":"Zoe Saldana", "As":"..."},
+            {"Name":"Dave Bautista", "As":"..."},
+            {"Name":"Vin Diesel", "As":"..."}
+        ],
+        "Plot":"The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.",
+        "Languages":["English"],
+        "Countries":["USA"],
+        "Awards":"Nominated for 1 Oscar. Another 12 wins & 42 nominations.",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMTg2MzI1MTg3OF5BMl5BanBnXkFtZTgwNTU3NDA2MTI@._V1_SX300.jpg",
+        "Ratings":[
+            {
+                "Source":"Internet Movie Database",
+                "Value":"7.7/10",
+                "Votes":602079
+            },
+            {
+                "Source":"Rotten Tomatoes",
+                "Value":"83%"
+            },
+            {
+                "Source":"Metacritic",
+                "Value":"67/100"
+            }
+        ]
+    }
+]
